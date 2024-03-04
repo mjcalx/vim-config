@@ -1,0 +1,8 @@
+[alias]
+    s = switch
+    b = branch
+    rb = rebase
+    c = commit
+    r = reset
+[user]
+    name = MJ Alix
